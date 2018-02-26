@@ -1,4 +1,5 @@
-# improved-waffle: a repository for my configurations for system migration
+# improved-waffle
+> a repository for my configurations for system migration
 
 ## zsh
 - requires [antigen](https://github.com/zsh-users/antigen)
