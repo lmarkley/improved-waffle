@@ -36,3 +36,5 @@
 - [ ] add more functionality to tmux.conf
 - [ ] screenshots?
 - [ ] iTerm2 theme?
+- [ ] add blurbs about how I use each package
+
