@@ -2,6 +2,10 @@
 
 ## zsh
 - requires [antigen](https://github.com/zsh-users/antigen)
+- some stuff used in my aliases/functions:
+    + [exa](https://github.com/ogham/exa)
+    + [ccat](https://github.com/jingweno/ccat)
+    + ... need to add more packages that I use
 
 ## vim
 - requires [vim-pathogen](https://github.com/tpope/vim-pathogen)
