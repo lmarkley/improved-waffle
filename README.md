@@ -14,3 +14,6 @@
 
 ## tmux
 - just makes the prefix key Ctrl+A
+
+## todo
+- [] add more packages that I enjoy using (with links)
