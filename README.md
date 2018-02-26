@@ -6,7 +6,21 @@
 - some stuff used in my aliases/functions:
     + [exa](https://github.com/ogham/exa)
     + [ccat](https://github.com/jingweno/ccat)
-    + ... 
+- [Homebrew](https://brew.sh) packages
+    + aria2
+    + diff-so-fancy
+    + fzf
+    + gnuplot
+    + imgcat
+    + numpy
+    + parallel
+    + python
+    + python3
+    + ripgrep
+    + scipy
+    + task
+    + tmux
+    + vim
 
 ## vim
 - requires [vim-pathogen](https://github.com/tpope/vim-pathogen)
@@ -17,7 +31,8 @@
 - just makes the prefix key Ctrl+A
 
 ## todo
-- [ ] add more packages that I enjoy using (with links)
+- [x] add more packages that I enjoy using (with links)
+- [ ] add links?
 - [ ] add more functionality to tmux.conf
 - [ ] screenshots?
 - [ ] iTerm2 theme?
