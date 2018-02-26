@@ -6,7 +6,7 @@
 - some stuff used in my aliases/functions:
     + [exa](https://github.com/ogham/exa)
     + [ccat](https://github.com/jingweno/ccat)
-    + ... need to add more packages that I use
+    + ... 
 
 ## vim
 - requires [vim-pathogen](https://github.com/tpope/vim-pathogen)
@@ -18,3 +18,6 @@
 
 ## todo
 - [ ] add more packages that I enjoy using (with links)
+- [ ] add more functionality to tmux.conf
+- [ ] screenshots?
+- [ ] iTerm2 theme?
