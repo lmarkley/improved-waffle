@@ -38,8 +38,21 @@ SPACESHIP_HOST_SHOW='always'
 SPACESHIP_NODE_SHOW='false'
 
 #
-# OTHER
+# FUNCTIONS
 #
+source ~/.shell_files/aliases.sh
+
+#
+# ALIASES
+#
+
+source ~/.shell_files/functions.sh
+
+# FZF
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+#
+# OTHER
 #
 
 fpath=(/usr/local/share/zsh-completions $fpath)
@@ -47,13 +60,6 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 # This line must go below the ANTIGEN section
 export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=4'
 
-source ~/.shell_files/aliases.sh
-
-# FZF
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
-source ~/.shell_files/functions.sh
-
-
+# iTerm2 shell integration
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
