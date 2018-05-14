@@ -10,8 +10,6 @@ PATH=$HOME/.cargo/bin:$PATH
 PATH="/usr/local/opt/llvm/bin:$PATH"
 PATH=/usr/local/sbin:$PATH
 
-#export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=3'
-
 #
 # ANTIGEN
 #
