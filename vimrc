@@ -6,7 +6,7 @@ filetype plugin indent on
 set number
 set background=light
 
-colorscheme hacked_ayu
+colorscheme nord
 
 set backspace=indent,eol,start
 
